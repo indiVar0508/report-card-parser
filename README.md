@@ -11,6 +11,13 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Demo Script
+
+Try out by activating virtual environment and then execute demo.py.
+```py
+python demo.py
+```
+
 ### Refs
 - https://github.com/tesseract-ocr/tesseract
 - https://builtin.com/data-science/python-ocr
