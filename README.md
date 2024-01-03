@@ -18,6 +18,14 @@ Try out by activating virtual environment and then execute demo.py.
 python demo.py
 ```
 
+### Run The App
+
+Bring up the Backend app using
+```py
+uvicorn app:app --reload
+```
+
+
 ### Refs
 - https://github.com/tesseract-ocr/tesseract
 - https://builtin.com/data-science/python-ocr
