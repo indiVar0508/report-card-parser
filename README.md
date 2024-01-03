@@ -25,6 +25,8 @@ Bring up the Backend app using
 uvicorn app:app --reload
 ```
 
+### Architecture
+![Alt text](<App Architecture Diagram.png>)
 
 ### Refs
 - https://github.com/tesseract-ocr/tesseract
